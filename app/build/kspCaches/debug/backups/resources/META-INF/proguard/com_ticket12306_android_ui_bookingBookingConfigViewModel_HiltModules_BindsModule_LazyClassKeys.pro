@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.booking.BookingConfigViewModel

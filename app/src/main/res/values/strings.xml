@@ -1,0 +1,209 @@
+<resources>
+    <string name="app_name">12306抢票助手</string>
+    <string name="login">登录</string>
+    <string name="logout">退出登录</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="captcha">验证码</string>
+    <string name="submit">提交</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="search">搜索</string>
+    <string name="refresh">刷新</string>
+    <string name="loading">加载中...</string>
+    <string name="error_network">网络错误，请检查网络连接</string>
+    <string name="error_unknown">未知错误，请稍后重试</string>
+    <string name="departure_station">出发站</string>
+    <string name="arrival_station">到达站</string>
+    <string name="departure_date">出发日期</string>
+    <string name="train_number">车次</string>
+    <string name="seat_type">座位类型</string>
+    <string name="passenger_info">乘客信息</string>
+    <string name="booking">预订</string>
+    <string name="auto_booking">自动抢票</string>
+    <string name="stop_auto_booking">停止抢票</string>
+    <string name="booking_success">抢票成功</string>
+    <string name="booking_failed">抢票失败</string>
+    <string name="no_ticket">暂无余票</string>
+    <string name="ticket_available">有余票</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <string name="version">版本: %1$s</string>
+    <string name="hot_stations">热门车站</string>
+    <string name="search_station_hint">输入城市名、车站名或拼音</string>
+    <string name="select_departure">选择出发站</string>
+    <string name="select_arrival">选择到达站</string>
+    <string name="no_search_result">未找到匹配的车站</string>
+    <string name="station_cache_expired">车站数据已过期，正在更新</string>
+    <string name="station_cache_updating">车站数据更新中…</string>
+    <string name="station_city_format">%1$s站</string>
+    <string name="login_subtitle">登录12306账号开始抢票</string>
+    <string name="captcha_click_refresh">点击刷新验证码</string>
+    <string name="error_username_empty">用户名不能为空</string>
+    <string name="error_username_short">用户名长度至少3位</string>
+    <string name="error_password_empty">密码不能为空</string>
+    <string name="error_password_short">密码长度至少6位</string>
+    <string name="error_captcha_empty">验证码不能为空</string>
+    <string name="error_captcha_length">验证码为4位</string>
+    <string name="error_login_failed">登录失败，请重试</string>
+    <string name="error_captcha_failed">获取验证码失败</string>
+    <string name="login_success">登录成功</string>
+    <string name="logout_success">已退出登录</string>
+
+    <!-- 车票查询相关 -->
+    <string name="swap_stations">交换出发到达站</string>
+    <string name="previous_day">前一天</string>
+    <string name="next_day">后一天</string>
+    <string name="select_date">选择日期</string>
+    <string name="today">今天</string>
+    <string name="tomorrow">明天</string>
+    <string name="day_after_tomorrow">后天</string>
+
+    <!-- 车次类型筛选 -->
+    <string name="filter_all">全部</string>
+    <string name="filter_high_speed">高铁</string>
+    <string name="filter_electric">动车</string>
+    <string name="filter_direct">直达</string>
+    <string name="filter_express">特快</string>
+    <string name="filter_fast">快速</string>
+    <string name="filter_other">其他</string>
+
+    <!-- 排序选项 -->
+    <string name="sort_departure_time">出发时间</string>
+    <string name="sort_arrival_time">到达时间</string>
+    <string name="sort_duration">历时</string>
+    <string name="sort_ascending">升序</string>
+    <string name="sort_descending">降序</string>
+
+    <!-- 座位类型 -->
+    <string name="seat_business">商务座</string>
+    <string name="seat_first_class">一等座</string>
+    <string name="seat_second_class">二等座</string>
+    <string name="seat_hard_sleeper_upper">硬卧上</string>
+    <string name="seat_hard_sleeper_middle">硬卧中</string>
+    <string name="seat_hard_sleeper_lower">硬卧下</string>
+    <string name="seat_soft_sleeper_upper">软卧上</string>
+    <string name="seat_soft_sleeper_lower">软卧下</string>
+    <string name="seat_hard_seat">硬座</string>
+    <string name="seat_soft_seat">软座</string>
+    <string name="seat_no_seat">无座</string>
+    <string name="seat_advanced_sleeper">高级软卧</string>
+    <string name="seat_move_sleeper">动卧</string>
+
+    <!-- 余票状态 -->
+    <string name="ticket_remain_format">%1$d张</string>
+    <string name="ticket_enough">有</string>
+    <string name="ticket_few">少</string>
+    <string name="ticket_none">无</string>
+    <string name="ticket_sold_out">候补</string>
+
+    <!-- 筛选条件 -->
+    <string name="filter_title">筛选</string>
+    <string name="filter_train_type">车次类型</string>
+    <string name="filter_departure_time_range">出发时间段</string>
+    <string name="filter_has_ticket">仅看有票</string>
+    <string name="filter_reset">重置</string>
+    <string name="filter_confirm">确定</string>
+
+    <!-- 时间段 -->
+    <string name="time_period_morning">00:00-06:00</string>
+    <string name="time_period_forenoon">06:00-12:00</string>
+    <string name="time_period_afternoon">12:00-18:00</string>
+    <string name="time_period_evening">18:00-24:00</string>
+
+    <!-- 空状态 -->
+    <string name="empty_no_result">未查询到符合条件的车次</string>
+    <string name="empty_no_input">请输入出发站和到达站</string>
+    <string name="empty_query_hint">输入信息后点击搜索查询车票</string>
+
+    <!-- 增强空状态 -->
+    <string name="empty_ticket_title">暂无车次信息</string>
+    <string name="empty_ticket_subtitle">试试调整筛选条件或更换日期</string>
+    <string name="empty_booking_title">暂无抢票任务</string>
+    <string name="empty_booking_subtitle">查询车次后可创建抢票任务</string>
+    <string name="empty_station_title">暂无车站数据</string>
+    <string name="empty_station_subtitle">下拉刷新或检查网络连接</string>
+    <string name="empty_station_search_title">未找到匹配车站</string>
+    <string name="empty_station_search_subtitle">试试其他关键词搜索</string>
+    <string name="empty_order_title">暂无订单记录</string>
+    <string name="empty_order_subtitle">成功抢票后订单会显示在这里</string>
+    <string name="empty_action_search">去查询车票</string>
+    <string name="empty_action_refresh">刷新</string>
+    <string name="empty_action_retry">重试</string>
+    <string name="empty_no_orders">暂无订单</string>
+
+    <!-- 查询错误 -->
+    <string name="error_from_station_empty">请选择出发站</string>
+    <string name="error_to_station_empty">请选择到达站</string>
+    <string name="error_same_station">出发站和到达站不能相同</string>
+    <string name="error_date_empty">请选择出发日期</string>
+    <string name="error_date_invalid">出发日期不在预售期内</string>
+
+    <!-- 座次选择 -->
+    <string name="seat_select_title">选择座次</string>
+    <string name="seat_select_hint">请选择座次类型</string>
+    <string name="passenger_select_title">选择乘客</string>
+    <string name="passenger_select_hint">请选择乘车人</string>
+    <string name="confirm_select">确认选择</string>
+    <string name="waitlist_hint">该座次无票，可加入候补</string>
+    <string name="seat_selected">已选: %1$s</string>
+    <string name="passenger_count">已选%1$d位乘客</string>
+    <string name="no_passenger">暂无乘客信息，请先登录并获取乘客列表</string>
+    <string name="error_no_seat_selected">请选择座次类型</string>
+    <string name="error_no_passenger_selected">请选择乘车人</string>
+    <string name="seat_waitlist_tag">候补</string>
+    <string name="seat_no_ticket_tag">无票</string>
+
+    <!-- 抢票配置 -->
+    <string name="booking_config_title">抢票配置</string>
+    <string name="booking_strategy">抢票策略</string>
+    <string name="strategy_normal">普通</string>
+    <string name="strategy_high_speed">高速</string>
+    <string name="strategy_extreme">极限</string>
+    <string name="strategy_smart">智能</string>
+    <string name="strategy_normal_desc">固定间隔查询，适合日常抢票</string>
+    <string name="strategy_high_speed_desc">短间隔查询+快速下单，适合热门车次</string>
+    <string name="strategy_extreme_desc">多线程并发查询+下单，极热门车次冲刺</string>
+    <string name="strategy_smart_desc">根据余票情况动态调整，综合最优策略</string>
+    <string name="refresh_interval">刷新间隔</string>
+    <string name="max_retry_count">最大重试次数</string>
+    <string name="seat_preference">座次偏好</string>
+    <string name="accept_waitlist">接受候补</string>
+    <string name="accept_waitlist_hint">开启后，当首选座次无票时将尝试候补购票</string>
+    <string name="start_booking">开始抢票</string>
+    <string name="stop_booking">停止抢票</string>
+    <string name="status_pending">等待中</string>
+    <string name="status_monitoring">监控中</string>
+    <string name="status_booking">抢票中</string>
+    <string name="status_success">抢票成功</string>
+    <string name="status_failed">抢票失败</string>
+    <string name="status_cancelled">已取消</string>
+
+    <!-- 底部导航 -->
+    <string name="my_orders">我的订单</string>
+    <string name="profile">个人中心</string>
+
+    <!-- 订单相关 -->
+    <string name="order_status_unpaid">待支付</string>
+    <string name="order_status_paid">已支付</string>
+    <string name="order_status_cancelled">已取消</string>
+    <string name="order_detail_info">订单详情</string>
+    <string name="order_sequence_no">订单号</string>
+    <string name="ticket_type">票种</string>
+    <string name="ticket_price">票价</string>
+    <string name="cancel_order">取消订单</string>
+    <string name="cancel_order_confirm">确定要取消该订单吗？取消后需重新购票。</string>
+    <string name="empty_no_passengers">暂无乘客信息</string>
+
+    <!-- 个人中心 -->
+    <string name="passenger_manage">乘客管理</string>
+    <string name="delete_passenger">删除乘客</string>
+    <string name="query_history">查询历史</string>
+    <string name="empty_no_query_history">暂无查询记录</string>
+    <string name="notification_settings">通知设置</string>
+    <string name="notification_enabled">开启抢票通知</string>
+    <string name="booking_default_settings">抢票默认参数</string>
+    <string name="about_description">这是一个帮助用户自动抢票的工具应用，支持多种抢票策略和智能监控。</string>
+    <string name="about_features">功能特性</string>
+    <string name="about_features_detail">• 车票查询：支持多条件筛选和排序\n• 自动抢票：多种策略可选，智能监控余票\n• 订单管理：查看订单状态，支持取消订单\n• 乘客管理：管理常用乘客信息\n• 通知提醒：抢票成功即时通知</string>
+</resources>

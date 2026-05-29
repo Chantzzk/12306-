@@ -1,0 +1,9 @@
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.booking.BookingConfigViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.booking.BookingConfigViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.booking.BookingViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.booking.BookingViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.login.LoginViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.login.LoginViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.order.OrderViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.order.OrderViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.profile.PassengerManageViewModel

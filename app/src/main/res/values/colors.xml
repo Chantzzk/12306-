@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#42A5F5</color>
+    <color name="accent">#FF5722</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="background">#FAFAFA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="error">#F44336</color>
+    <color name="info">#2196F3</color>
+    <color name="search_highlight">#FF5722</color>
+    <color name="hot_station_bg">#E3F2FD</color>
+    <color name="hot_station_text">#1565C0</color>
+    <color name="tab_selected">@color/primary</color>
+    <color name="tab_unselected">@color/secondary_text</color>
+    <color name="tab_indicator">@color/accent</color>
+
+    <!-- 余票状态颜色 -->
+    <color name="ticket_enough">#4CAF50</color>
+    <color name="ticket_few">#FF9800</color>
+    <color name="ticket_none">#999999</color>
+    <color name="ticket_sold_out">#F44336</color>
+
+    <!-- 筛选Chips颜色 -->
+    <color name="chip_selected_bg">#1976D2</color>
+    <color name="chip_selected_text">#FFFFFF</color>
+    <color name="chip_unselected_bg">#F5F5F5</color>
+    <color name="chip_unselected_text">#616161</color>
+
+    <!-- 车次类型标识颜色 -->
+    <color name="train_type_high_speed">#F44336</color>
+    <color name="train_type_electric">#FF9800</color>
+    <color name="train_type_direct">#4CAF50</color>
+    <color name="train_type_express">#2196F3</color>
+    <color name="train_type_fast">#9C27B0</color>
+    <color name="train_type_other">#607D8B</color>
+
+    <!-- 日期导航 -->
+    <color name="date_nav_text">#1976D2</color>
+    <color name="date_nav_disabled">#BDBDBD</color>
+    <color name="date_selected_bg">#1976D2</color>
+    <color name="date_selected_text">#FFFFFF</color>
+
+    <!-- 座次选择状态颜色 -->
+    <color name="seat_item_selected_bg">#E3F2FD</color>
+    <color name="seat_item_selected_border">#1976D2</color>
+    <color name="seat_item_normal_bg">#FFFFFF</color>
+    <color name="seat_item_normal_border">#E0E0E0</color>
+    <color name="seat_item_disabled_bg">#F5F5F5</color>
+    <color name="seat_item_disabled_border">#EEEEEE</color>
+    <color name="seat_item_disabled_text">#CCCCCC</color>
+    <color name="seat_waitlist_bg">#FFF3E0</color>
+    <color name="seat_waitlist_border">#FF9800</color>
+    <color name="seat_waitlist_text">#E65100</color>
+
+    <!-- 骨架屏颜色 -->
+    <color name="shimmer_base">#E0E0E0</color>
+    <color name="shimmer_highlight">#F5F5F5</color>
+
+    <!-- 空状态颜色 -->
+    <color name="empty_illustration">#BDBDBD</color>
+    <color name="empty_title">#757575</color>
+    <color name="empty_subtitle">#9E9E9E</color>
+    <color name="empty_action_bg">#1976D2</color>
+    <color name="empty_action_text">#FFFFFF</color>
+</resources>

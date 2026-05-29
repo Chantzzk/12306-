@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\item_seat_select.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\item_seat_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\skeleton_booking_list.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\skeleton_booking_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\skeleton_ticket_list.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\skeleton_ticket_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\dialog_ticket_filter.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\dialog_ticket_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\item_order.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\item_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\fragment_about.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\fragment_ticket.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\fragment_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\fragment_station.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\fragment_station.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\fragment_query_history.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\fragment_query_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\fragment_passenger_manage.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\fragment_passenger_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\skeleton_station_item.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\skeleton_station_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\skeleton_booking_item.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\skeleton_booking_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\item_ticket.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\item_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\item_passenger_select.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\item_passenger_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\fragment_station_select.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\fragment_station_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\item_seat_info.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\item_seat_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\item_passenger_manage.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\item_passenger_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\skeleton_station_list.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\skeleton_station_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\item_query_history.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\item_query_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\item_booking_task.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\item_booking_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\item_station.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\item_station.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\layout_empty_state.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\layout_empty_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\fragment_seat_select.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\fragment_seat_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\skeleton_ticket_item.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\skeleton_ticket_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\fragment_order_detail.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\fragment_order_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\fragment_booking.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\fragment_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\fragment_ticket_detail.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\fragment_ticket_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\fragment_booking_config.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\fragment_booking_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\item_seat_detail.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\item_seat_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-mergeReleaseResources-61:\\layout\\fragment_order.xml",
+        "source": "C:\\Users\\21772\\.gradle\\daemon\\8.11.1\\com.ticket12306.android.app-main-64:\\layout\\fragment_order.xml"
+    }
+]

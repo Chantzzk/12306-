@@ -1,0 +1,82 @@
+# Tasks
+
+- [x] Task 1: 创建Android项目基础结构
+  - [x] SubTask 1.1: 创建Android项目，配置Gradle构建文件
+  - [x] SubTask 1.2: 设置项目包结构和基础架构（MVVM）
+  - [x] SubTask 1.3: 添加必要的依赖库（Retrofit, Room, Coroutines, ViewModel等）
+- [x] Task 2: 实现12306 API网络层
+  - [x] SubTask 2.1: 创建Retrofit网络客户端配置
+  - [x] SubTask 2.2: 实现车站查询API接口
+  - [x] SubTask 2.3: 实现车票查询API接口
+  - [x] SubTask 2.4: 实现用户登录API接口
+  - [x] SubTask 2.5: 实现下单API接口
+- [x] Task 3: 实现数据持久化层
+  - [x] SubTask 3.1: 创建Room数据库配置
+  - [x] SubTask 3.2: 实现用户信息实体和DAO
+  - [x] SubTask 3.3: 实现查询历史实体和DAO
+  - [x] SubTask 3.4: 实现抢票任务实体和DAO
+- [x] Task 4: 实现用户登录功能
+  - [x] SubTask 4.1: 创建登录界面布局
+  - [x] SubTask 4.2: 实现登录ViewModel和业务逻辑
+  - [x] SubTask 4.3: 实现登录状态管理（SharedPreferences/DataStore）
+  - [x] SubTask 4.4: 添加表单验证和错误处理
+- [x] Task 5: 实现车站选择功能
+  - [x] SubTask 5.1: 创建车站选择界面布局
+  - [x] SubTask 5.2: 实现车站搜索功能
+  - [x] SubTask 5.3: 实现车站列表展示
+  - [x] SubTask 5.4: 缓存车站数据到本地
+- [x] Task 6: 实现车票查询功能
+  - [x] SubTask 6.1: 创建查询条件输入界面
+  - [x] SubTask 6.2: 实现日期选择器
+  - [x] SubTask 6.3: 实现车票查询ViewModel
+  - [x] SubTask 6.4: 创建车次列表展示界面
+  - [x] SubTask 6.5: 实现车次筛选功能（高铁、动车等）
+  - [x] SubTask 6.6: 实现排序功能（时间、历时）
+- [x] Task 7: 实现座次选择功能
+  - [x] SubTask 7.1: 创建座次选择界面
+  - [x] SubTask 7.2: 显示各座次余票信息
+  - [x] SubTask 7.3: 实现座次选择交互
+- [x] Task 8: 实现自动抢票核心功能
+  - [x] SubTask 8.1: 创建抢票任务配置界面
+  - [x] SubTask 8.2: 实现抢票任务调度器（WorkManager）
+  - [x] SubTask 8.3: 实现余票监控逻辑
+  - [x] SubTask 8.4: 实现自动下单逻辑
+  - [x] SubTask 8.5: 实现抢票重试机制
+  - [x] SubTask 8.6: 实现抢票状态管理
+  - [x] SubTask 8.7: 实现抢票状态日志生成与保存
+  - [x] SubTask 8.8: 尝试不同抢票策略，寻找最优策略
+- [x] Task 9: 实现通知功能
+  - [x] SubTask 9.1: 配置通知渠道
+  - [x] SubTask 9.2: 实现抢票成功通知
+  - [x] SubTask 9.3: 实现抢票失败通知
+  - [x] SubTask 9.4: 实现抢票进度通知
+- [x] Task 10: 实现主界面和导航
+  - [x] SubTask 10.1: 创建主界面布局（底部导航）
+  - [x] SubTask 10.2: 实现Fragment导航
+  - [x] SubTask 10.3: 创建我的订单页面
+  - [x] SubTask 10.4: 创建个人中心页面
+- [x] Task 11: 完善用户体验
+  - [x] SubTask 11.1: 添加加载状态和骨架屏
+  - [x] SubTask 11.2: 实现下拉刷新
+  - [x] SubTask 11.3: 添加空状态视图
+  - [x] SubTask 11.4: 优化界面动画效果
+- [x] Task 12: 测试和优化
+  - [x] SubTask 12.1: 编写单元测试
+  - [x] SubTask 12.2: 进行集成测试
+  - [x] SubTask 12.3: 性能优化和内存泄漏检查
+  - [x] SubTask 12.4: 兼容性测试
+
+# Task Dependencies
+
+- \[Task 2] depends on \[Task 1]
+- \[Task 3] depends on \[Task 1]
+- \[Task 4] depends on \[Task 2]
+- \[Task 5] depends on \[Task 2]
+- \[Task 6] depends on \[Task 2, Task 5]
+- \[Task 7] depends on \[Task 6]
+- \[Task 8] depends on \[Task 2, Task 3, Task 5，Task 6, Task 7]
+- \[Task 9] depends on \[Task 8]
+- \[Task 10] depends on \[Task 4, Task 6]
+- \[Task 11] depends on \[Task 10]
+- \[Task 12] depends on \[Task 11]
+

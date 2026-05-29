@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/drawable_bg_seat_item_disabled.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/drawable/bg_seat_item_disabled.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_activity_login.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_skeleton_ticket_item.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/skeleton_ticket_item.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_fragment_passenger_manage.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/fragment_passenger_manage.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_fragment_profile.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_fragment_seat_select.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/fragment_seat_select.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_activity_main.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/anim_slide_out_left.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_item_seat_info.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/item_seat_info.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_item_order.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/item_order.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/anim_slide_out_right.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_item_seat_detail.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/item_seat_detail.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_fragment_ticket.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/fragment_ticket.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_item_booking_task.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/item_booking_task.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_fragment_booking_config.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/fragment_booking_config.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_skeleton_station_item.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/skeleton_station_item.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_item_query_history.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/item_query_history.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/anim_slide_in_right.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_layout_empty_state.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/layout_empty_state.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/xml_backup_rules.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_dialog_ticket_filter.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/dialog_ticket_filter.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_skeleton_booking_item.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/skeleton_booking_item.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_item_passenger_manage.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/item_passenger_manage.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_item_ticket.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/item_ticket.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/drawable_splash_background.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/drawable/splash_background.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_fragment_order.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/fragment_order.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_item_seat_select.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/item_seat_select.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/anim_fade_scale_out.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/anim/fade_scale_out.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_fragment_settings.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/anim_fade_scale_in.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/anim/fade_scale_in.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/drawable_bg_seat_item_normal.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/drawable/bg_seat_item_normal.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_skeleton_station_list.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/skeleton_station_list.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/xml_data_extraction_rules.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_item_passenger_select.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/item_passenger_select.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/anim_item_slide_in_bottom.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/anim/item_slide_in_bottom.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_fragment_order_detail.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/fragment_order_detail.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/navigation_mobile_navigation.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/anim_slide_in_left.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_skeleton_ticket_list.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/skeleton_ticket_list.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/drawable_bg_seat_item_waitlist.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/drawable/bg_seat_item_waitlist.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_fragment_about.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_fragment_ticket_detail.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/fragment_ticket_detail.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_fragment_query_history.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/fragment_query_history.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_fragment_booking.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/fragment_booking.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/drawable_bg_seat_item_selected.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/drawable/bg_seat_item_selected.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_skeleton_booking_list.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/skeleton_booking_list.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_item_station.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/item_station.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_fragment_station.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/fragment_station.xml"
+    },
+    {
+        "merged": "com.ticket12306.android.app-debug-62:/layout_fragment_station_select.xml.flat",
+        "source": "com.ticket12306.android.app-main-64:/layout/fragment_station_select.xml"
+    }
+]

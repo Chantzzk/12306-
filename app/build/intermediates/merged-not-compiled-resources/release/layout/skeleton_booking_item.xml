@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- 车次号骨架 -->
+        <View
+            android:layout_width="80dp"
+            android:layout_height="20dp"
+            android:background="@color/shimmer_base" />
+
+        <!-- 路线骨架 -->
+        <View
+            android:layout_width="200dp"
+            android:layout_height="16dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/shimmer_base" />
+
+        <!-- 日期+时间骨架 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:orientation="horizontal">
+
+            <View
+                android:layout_width="80dp"
+                android:layout_height="14dp"
+                android:background="@color/shimmer_base" />
+
+            <View
+                android:layout_width="100dp"
+                android:layout_height="14dp"
+                android:layout_marginStart="16dp"
+                android:background="@color/shimmer_base" />
+
+        </LinearLayout>
+
+        <!-- 座次骨架 -->
+        <View
+            android:layout_width="160dp"
+            android:layout_height="14dp"
+            android:layout_marginTop="8dp"
+            android:background="@color/shimmer_base" />
+
+        <!-- 乘客骨架 -->
+        <View
+            android:layout_width="120dp"
+            android:layout_height="14dp"
+            android:layout_marginTop="8dp"
+            android:background="@color/shimmer_base" />
+
+        <!-- 按钮骨架 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:orientation="horizontal">
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="36dp"
+                android:layout_marginEnd="8dp"
+                android:layout_weight="1"
+                android:background="@color/shimmer_base" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="36dp"
+                android:layout_marginEnd="8dp"
+                android:layout_weight="1"
+                android:background="@color/shimmer_base" />
+
+            <View
+                android:layout_width="60dp"
+                android:layout_height="36dp"
+                android:background="@color/shimmer_base" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

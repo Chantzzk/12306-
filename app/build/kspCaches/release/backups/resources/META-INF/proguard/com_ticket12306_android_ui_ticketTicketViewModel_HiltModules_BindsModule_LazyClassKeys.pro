@@ -1,0 +1,17 @@
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.booking.BookingConfigViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.booking.BookingConfigViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.booking.BookingViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.booking.BookingViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.login.LoginViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.login.LoginViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.order.OrderViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.order.OrderViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.profile.PassengerManageViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.profile.PassengerManageViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.profile.SettingsViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.profile.SettingsViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.station.StationViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.station.StationViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.ticket.SeatSelectViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.ticket.SeatSelectViewModel
+-keep,allowobfuscation,allowshrinking class com.ticket12306.android.ui.ticket.TicketViewModel

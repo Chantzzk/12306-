@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp">
+
+    <!-- 座次名称 -->
+    <TextView
+        android:id="@+id/tv_seat_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textColor="@color/primary_text"
+        android:textSize="14sp" />
+
+    <!-- 价格 -->
+    <TextView
+        android:id="@+id/tv_seat_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:textColor="@color/secondary_text"
+        android:textSize="13sp" />
+
+    <!-- 余票状态 -->
+    <TextView
+        android:id="@+id/tv_seat_remain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:minWidth="48dp"
+        android:gravity="end"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

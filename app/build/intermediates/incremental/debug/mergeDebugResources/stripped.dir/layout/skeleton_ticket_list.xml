@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.shimmer.ShimmerFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/shimmer_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:visibility="gone">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingStart="8dp"
+        android:paddingEnd="8dp">
+
+        <!-- 骨架项1 -->
+        <include layout="@layout/skeleton_ticket_item" />
+
+        <!-- 骨架项2 -->
+        <include layout="@layout/skeleton_ticket_item" />
+
+        <!-- 骨架项3 -->
+        <include layout="@layout/skeleton_ticket_item" />
+
+        <!-- 骨架项4 -->
+        <include layout="@layout/skeleton_ticket_item" />
+
+    </LinearLayout>
+
+</com.facebook.shimmer.ShimmerFrameLayout>
